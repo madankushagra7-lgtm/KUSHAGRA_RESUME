@@ -226,7 +226,7 @@ export default function NetflixResume() {
                 background: 'rgba(0,0,0,0.3)'
               }}>
                 <img 
-                  src="https://drive.google.com/uc?export=view&id=1bBoqpOmySs-Pf7V6wu0voSBrKC6UOF1R"
+                  src="https://i.imgur.com/3LklP7O.jpg"
                   alt="Kushagra Madan"
                   style={{
                     width: '100%',
